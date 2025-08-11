@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms  
 
 A comprehensive collection of data structures and algorithms implemented in multiple programming languages. This repository serves as a resource for learning and practicing fundamental computer science concepts.
 
